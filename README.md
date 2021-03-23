@@ -1,5 +1,5 @@
 # DUScraper
-This is a script to scrape DU results.  
+This is a script to scrape (and process) DU results data.
 All information used here is available easily on the DU website.
 
 The Jupyter Notebook contains all relevant information. The following need to be specified clearly:
