@@ -1,4 +1,4 @@
-Note: This project no longer works as DU has added additional authentication method for accessing student result data.
+Note: This project no longer works as DU has added additional authentication requirements for accessing student result data.
 
 # DUScraper
 This is a script to scrape (and process) DU results data.  
