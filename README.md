@@ -1,3 +1,5 @@
+Note: This project no longer works as DU has added additional authentication method for accessing student result data.
+
 # DUScraper
 This is a script to scrape (and process) DU results data.  
 All information used here is available easily on the DU website.
